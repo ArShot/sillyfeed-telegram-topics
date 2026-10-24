@@ -1,0 +1,143 @@
+level,slug,parent,name,channels_listed,channels_with_posts,posts,post_length_p50,pct_longer_1000,pct_with_media,posts_with_media_known
+catalog,,,Весь каталог,79059,,1837893,725,38.5,65.4,1836936
+topic,business_finance,,Бизнес и финансы,7053,14138,150047,1420,67.9,46.8,150002
+topic,home_lifestyle,,Дом и стиль жизни,16040,34277,242619,359,18.8,75.0,242513
+topic,food_cooking,,Еда и кулинария,2467,13095,70185,660,30.9,84.1,70166
+topic,health_medicine,,Здоровье и медицина,6659,16948,159587,1168,57.4,58.5,159523
+topic,gaming,,Игры,2200,3578,20212,365,25.0,74.5,20211
+topic,arts_design,,Искусство и дизайн,11165,23491,221367,238,15.9,87.3,221274
+topic,careers_marketing,,Карьера и маркетинг,4775,15537,100462,1257,61.6,47.5,100401
+topic,cinema_tv,,Кино и ТВ,2767,13154,54798,784,40.0,72.3,54763
+topic,literature,,Литература,3892,15156,102560,717,36.1,61.6,102501
+topic,fashion_beauty,,Мода и красота,6571,11729,90652,470,23.3,85.6,90632
+topic,music,,Музыка,3034,6792,29668,560,30.5,56.8,29661
+topic,science_education,,Наука и образование,8370,19033,155649,850,42.5,66.1,155577
+topic,politics,,Политика,3446,6196,41576,1190,57.8,38.4,41563
+topic,psychology_relationships,,Психология и отношения,9041,27890,292175,1106,54.7,46.3,291830
+topic,travel_places,,Путешествия и места,4462,20063,95462,610,31.8,83.9,95403
+topic,sports_fitness,,Спорт и фитнес,5037,11631,60501,616,31.8,69.9,60488
+topic,technology,,Технологии,2775,10891,73286,923,46.4,57.2,73273
+topic,esoterics,,Эзотерика,1850,4889,36143,1135,55.5,58.1,36076
+topic,humor_memes,,Юмор и мемы,1447,14055,42936,79,4.5,77.5,42920
+subtopic,architecture,arts_design,Архитектура,682,3784,14610,725,34.6,89.6,14603
+subtopic,art_criticism,arts_design,Арт-критика и теория искусства,2078,8027,31012,776,38.4,79.7,30977
+subtopic,digital_art,arts_design,Цифровое искусство,2320,6011,28880,111,6.4,88.2,28875
+subtopic,graphic_design,arts_design,Графический дизайн,780,3280,10834,339,17.1,87.2,10819
+subtopic,handmade_craft,arts_design,Handmade и ремесло,3198,7350,44136,242,10.8,88.2,44131
+subtopic,illustration,arts_design,Иллюстрация,2548,5549,43380,98,4.1,90.6,43378
+subtopic,painting,arts_design,Живопись и традиционное искусство,761,4102,16587,243,15.2,93.2,16583
+subtopic,photography,arts_design,Фотография,1526,6071,26441,152,11.1,90.2,26427
+subtopic,typography,arts_design,Типографика и шрифты,93,310,1143,321,10.9,90.0,1143
+subtopic,ui_ux_design,arts_design,UI/UX дизайн,598,674,3304,496,27.9,77.1,3303
+subtopic,consulting_services,business_finance,Консалтинг и B2B-экспертиза,566,3024,8674,1426,68.5,49.5,8674
+subtopic,crypto,business_finance,Криптовалюты как инвестиционный актив,475,825,5786,1172,56.2,56.3,5786
+subtopic,entrepreneurship,business_finance,Предпринимательство и стартапы,2198,6357,26825,1330,64.8,50.7,26814
+subtopic,finance_legal,business_finance,Финансовое и налоговое право,1427,3878,32766,1550,73.8,34.9,32751
+subtopic,investing,business_finance,Инвестиции,855,1922,14326,1563,69.9,54.4,14326
+subtopic,management,business_finance,Менеджмент и лидерство,2115,5306,32533,1505,72.3,43.3,32521
+subtopic,markets_economics,business_finance,Макроэкономика и рынки,863,3551,16146,1400,66.3,48.9,16143
+subtopic,personal_finance,business_finance,Личные финансы,376,4069,9924,1272,61.8,47.6,9919
+subtopic,real_estate,business_finance,Недвижимость,668,1653,11850,1431,69.3,58.0,11849
+subtopic,advertising_pr,careers_marketing,Реклама и PR,846,2972,10964,994,49.7,55.8,10958
+subtopic,career_advice,careers_marketing,Карьерные советы,2324,10754,42302,1300,63.3,44.4,42281
+subtopic,content_marketing,careers_marketing,Контент-маркетинг и копирайтинг,716,3842,11734,1112,55.3,48.5,11729
+subtopic,hr_recruitment,careers_marketing,HR и рекрутинг,213,1612,5073,1388,68.1,46.1,5073
+subtopic,marketing_strategy,careers_marketing,Стратегический маркетинг,1471,3820,18708,1414,69.1,51.2,18685
+subtopic,personal_branding,careers_marketing,Личный бренд,321,3456,6407,1058,53.5,53.6,6402
+subtopic,sales,careers_marketing,Продажи,120,1060,2728,1406,69.5,38.2,2727
+subtopic,animation,cinema_tv,Анимация,246,1868,4323,549,31.7,77.0,4321
+subtopic,documentary,cinema_tv,Документальное кино,62,959,1406,918,45.0,67.0,1405
+subtopic,film_reviews,cinema_tv,Обзоры фильмов,1269,9259,31115,857,43.1,74.7,31093
+subtopic,filmmaking_craft,cinema_tv,Кинопроизводство и ремесло кино,1403,2188,8986,678,36.2,63.8,8985
+subtopic,series_reviews,cinema_tv,Обзоры сериалов,224,4179,8436,792,39.5,71.6,8428
+subtopic,astrology,esoterics,Астрология,879,1449,11179,1476,66.3,48.9,11148
+subtopic,meditation_secular,esoterics,Секулярная медитация и осознанность,485,2238,8536,998,49.8,56.9,8522
+subtopic,mythology,esoterics,Мифология,204,1195,3185,1209,58.2,61.6,3183
+subtopic,numerology,esoterics,Нумерология,43,153,359,1334,66.6,53.5,359
+subtopic,tarot,esoterics,Таро,648,1134,6336,1012,50.6,71.9,6329
+subtopic,fashion,fashion_beauty,Мода и одежда,1765,6316,29568,398,17.9,90.3,29552
+subtopic,hair,fashion_beauty,Волосы и парикмахерское дело,265,2203,6083,594,28.5,78.9,6083
+subtopic,lifestyle_style,fashion_beauty,Лайфстайл и стиль,3653,4932,20038,331,15.3,83.6,20038
+subtopic,makeup,fashion_beauty,Макияж,652,1958,8424,448,15.2,91.0,8422
+subtopic,nails,fashion_beauty,Ногти и маникюр,432,1246,5795,57,4.5,90.9,5795
+subtopic,skincare_cosmetology,fashion_beauty,Уход за кожей и косметология,1667,3902,22187,905,44.7,80.2,22185
+subtopic,baking,food_cooking,Выпечка,279,2302,6576,538,26.7,83.4,6575
+subtopic,drinks_wine,food_cooking,Напитки,542,3139,12458,741,36.7,82.8,12458
+subtopic,gastronomy,food_cooking,Гастрономия и культура еды,741,5820,14312,616,31.8,83.3,14304
+subtopic,recipes,food_cooking,Рецепты,1367,6672,30355,680,29.0,83.3,30348
+subtopic,restaurants,food_cooking,Обзоры ресторанов,312,3383,9109,704,33.9,90.6,9105
+subtopic,game_commentary,gaming,Игровой комментарий и блоги геймеров,1855,3011,14772,293,22.5,74.3,14772
+subtopic,game_reviews,gaming,Обзоры игр,160,495,1503,964,47.6,74.3,1503
+subtopic,gamedev,gaming,Разработка игр,304,630,2977,476,27.5,73.0,2977
+subtopic,retro_games,gaming,Ретро-игры,30,196,658,581,24.2,83.7,658
+subtopic,fitness_health,health_medicine,Фитнес как здоровье,851,4002,14063,1034,52.4,60.5,14060
+subtopic,general_medicine,health_medicine,Общая медицина,1307,4337,15164,1111,54.8,53.3,15157
+subtopic,nutrition,health_medicine,Питание и нутрициология,1478,5126,25029,1310,63.8,61.3,25023
+subtopic,preventive_health,health_medicine,Профилактика,672,4429,14105,1432,68.3,54.5,14099
+subtopic,rehabilitation,health_medicine,Реабилитация,296,1406,4693,1076,54.6,60.6,4690
+subtopic,specialty_medicine,health_medicine,Узкие медицинские специальности,2800,7667,62571,1181,57.3,57.5,62544
+subtopic,supplements,health_medicine,БАДы и витамины,61,1893,4394,1387,65.4,57.1,4392
+subtopic,wellness,health_medicine,Велнес и ЗОЖ,1433,8552,27542,1192,59.2,59.4,27529
+subtopic,autos,home_lifestyle,Автомобили,627,2611,9938,387,22.8,81.0,9932
+subtopic,collecting_hobbies,home_lifestyle,Коллекционирование и хобби,595,4320,12268,338,16.8,88.2,12263
+subtopic,daily_life,home_lifestyle,Повседневная жизнь,12773,28906,152909,342,16.9,70.2,152861
+subtopic,gardening,home_lifestyle,Садоводство и ландшафт,669,2650,16254,523,24.2,82.2,16254
+subtopic,home_improvement,home_lifestyle,Ремонт и DIY,547,3175,9191,558,27.4,77.6,9176
+subtopic,interior_design,home_lifestyle,Интерьерный дизайн,723,3662,12083,416,20.9,92.2,12058
+subtopic,pets,home_lifestyle,Домашние животные,768,6880,26037,261,19.5,82.0,26031
+subtopic,comics_humor,humor_memes,Юмористические комиксы,85,377,720,46,1.8,96.9,720
+subtopic,memes,humor_memes,Мемы,1077,11959,32873,59,1.9,86.8,32867
+subtopic,satire,humor_memes,Сатира,255,3413,6721,214,13.0,39.0,6711
+subtopic,stand_up,humor_memes,Stand-up комедия,167,300,1509,309,18.3,41.0,1509
+subtopic,book_reviews,literature,Книжные обзоры,2002,10267,50908,894,44.4,74.6,50871
+subtopic,fiction,literature,Художественная литература,1141,3310,13003,621,35.0,54.0,12999
+subtopic,non_fiction,literature,Нонфикшн,276,2725,5016,834,42.7,59.0,5015
+subtopic,poetry,literature,Поэзия,783,4509,21024,530,16.9,42.7,21018
+subtopic,writing_craft,literature,Ремесло писателя,829,2179,9024,735,37.5,45.8,9013
+subtopic,audio_production,music,Аудиопроизводство,414,1133,3518,456,25.2,52.1,3518
+subtopic,classical_jazz,music,Классика и джаз,246,1128,3157,627,29.7,57.9,3156
+subtopic,electronic,music,Электронная музыка,458,642,1834,380,19.3,59.2,1834
+subtopic,hip_hop_rnb,music,Хип-хоп и R&B,847,523,1527,230,19.7,58.0,1527
+subtopic,music_reviews,music,Музыкальные обзоры,1126,3843,13647,800,41.2,52.9,13641
+subtopic,rock_pop,music,Рок и поп,828,1531,4810,352,20.1,68.3,4810
+subtopic,geopolitics_non_ukraine,politics,Геополитика,271,847,2730,1428,65.6,25.5,2730
+subtopic,political_analysis,politics,Политическая аналитика,854,2524,14934,1442,65.7,32.8,14933
+subtopic,political_history,politics,Политическая история,171,1964,6524,1304,60.8,47.9,6522
+subtopic,social_commentary,politics,Социальный комментарий,2874,4367,16814,995,49.9,40.1,16804
+subtopic,child_psychology,psychology_relationships,Детская психология,460,2365,9035,1264,60.9,56.9,9030
+subtopic,coaching,psychology_relationships,Коучинг,287,649,1445,1345,66.6,45.3,1445
+subtopic,family_parenting,psychology_relationships,Семья и родительство,1483,7547,28131,1057,53.2,55.0,28110
+subtopic,mental_health,psychology_relationships,Ментальное здоровье,2841,12944,59128,1394,65.1,41.8,59033
+subtopic,pregnancy_motherhood,psychology_relationships,Беременность и материнство,170,613,1299,941,47.0,58.3,1299
+subtopic,relationships,psychology_relationships,Отношения,603,10670,40968,1054,52.3,38.0,40917
+subtopic,self_development,psychology_relationships,Саморазвитие,2980,21230,127828,1016,50.9,48.3,127679
+subtopic,therapy_counseling,psychology_relationships,Психотерапия и консультирование,3802,5731,40981,1438,66.5,42.4,40952
+subtopic,exam_prep,science_education,Подготовка к экзаменам,262,1084,3681,695,36.2,57.0,3680
+subtopic,formal_education,science_education,Формальное образование,1818,5809,22606,996,49.9,60.1,22586
+subtopic,history_humanities,science_education,История и гуманитарные науки,2406,8483,47301,915,45.5,73.4,47280
+subtopic,language_learning,science_education,Изучение языков,2125,4264,37810,719,33.5,63.0,37800
+subtopic,mathematics,science_education,Математика,206,664,3254,412,21.6,64.9,3252
+subtopic,philosophy,science_education,Философия,1373,1922,7287,907,46.9,36.7,7281
+subtopic,research_academic,science_education,Академические исследования,242,1197,3190,1124,55.3,48.2,3190
+subtopic,science_popular,science_education,Научно-популярный контент,1312,6242,26735,864,42.4,74.5,26725
+subtopic,competitive_sports,sports_fitness,Соревновательный спорт,537,1805,5519,676,36.0,63.8,5515
+subtopic,fitness_training,sports_fitness,Фитнес и тренировки,2485,5381,22098,616,31.4,66.9,22094
+subtopic,martial_arts,sports_fitness,Единоборства,398,668,2469,507,26.9,69.5,2467
+subtopic,outdoor_sports,sports_fitness,Outdoor-спорт,743,2887,8672,409,23.7,82.2,8672
+subtopic,running,sports_fitness,Бег,289,1329,4311,678,34.1,79.5,4311
+subtopic,team_sports,sports_fitness,Командные виды спорта,778,1446,8497,690,35.7,63.3,8496
+subtopic,yoga_mindbody,sports_fitness,Йога и mind-body практики,560,2007,6170,572,27.6,68.1,6168
+subtopic,ai_ml,technology,AI и машинное обучение,1168,6720,27264,1133,56.1,55.3,27253
+subtopic,cybersecurity,technology,Кибербезопасность,217,1265,5412,961,48.1,61.5,5411
+subtopic,data_science,technology,Data Science и аналитика,170,430,1422,880,44.2,57.8,1422
+subtopic,design_ux,technology,UI/UX и продуктовый дизайн,34,523,1277,656,32.5,71.5,1277
+subtopic,devops_infra,technology,DevOps и инфраструктура,69,637,2943,851,41.0,53.5,2942
+subtopic,hardware_gadgets,technology,Hardware и гаджеты,340,2824,7295,667,34.1,72.8,7295
+subtopic,mobile_dev,technology,Мобильная разработка,52,209,817,753,37.8,62.9,817
+subtopic,programming,technology,Программирование,1313,2369,17411,773,39.7,51.0,17411
+subtopic,web_dev,technology,Веб-разработка,129,597,2385,657,33.5,61.3,2385
+subtopic,country_specific,travel_places,Один конкретный регион,1039,4027,13513,673,34.7,80.9,13506
+subtopic,emigration,travel_places,Эмиграция и переезд,682,2187,5470,1205,58.6,49.6,5470
+subtopic,local_places,travel_places,Локальные места,643,6385,15720,497,23.7,91.6,15707
+subtopic,travel,travel_places,Путешествия,2848,15697,57391,626,32.4,85.1,57354
+subtopic,urban_exploration,travel_places,Городские прогулки и urban exploration,80,2396,3835,156,12.5,92.8,3834

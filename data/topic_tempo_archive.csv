@@ -1,0 +1,143 @@
+level,slug,parent,name,posts_per_week_p50,channels_in_sample
+catalog,,,Весь каталог,4.0,65834
+topic,business_finance,,Бизнес и финансы,3.1,5606
+topic,home_lifestyle,,Дом и стиль жизни,4.6,13654
+topic,food_cooking,,Еда и кулинария,4.2,2087
+topic,health_medicine,,Здоровье и медицина,3.7,5478
+topic,gaming,,Игры,5.2,1523
+topic,arts_design,,Искусство и дизайн,3.3,9407
+topic,careers_marketing,,Карьера и маркетинг,2.9,4052
+topic,cinema_tv,,Кино и ТВ,3.9,2265
+topic,literature,,Литература,4.5,3379
+topic,fashion_beauty,,Мода и красота,4.9,5765
+topic,music,,Музыка,4.2,2569
+topic,science_education,,Наука и образование,3.6,7007
+topic,politics,,Политика,4.8,2825
+topic,psychology_relationships,,Психология и отношения,4.0,7632
+topic,travel_places,,Путешествия и места,3.4,3766
+topic,sports_fitness,,Спорт и фитнес,4.4,4036
+topic,technology,,Технологии,2.6,2274
+topic,esoterics,,Эзотерика,5.4,1522
+topic,humor_memes,,Юмор и мемы,7.1,1190
+subtopic,architecture,arts_design,Архитектура,2.7,595
+subtopic,art_criticism,arts_design,Арт-критика и теория искусства,3.7,1831
+subtopic,digital_art,arts_design,Цифровое искусство,2.9,1814
+subtopic,graphic_design,arts_design,Графический дизайн,2.3,680
+subtopic,handmade_craft,arts_design,Handmade и ремесло,4.1,2710
+subtopic,illustration,arts_design,Иллюстрация,3.0,2017
+subtopic,painting,arts_design,Живопись и традиционное искусство,3.3,650
+subtopic,photography,arts_design,Фотография,3.4,1330
+subtopic,typography,arts_design,Типографика и шрифты,2.9,90
+subtopic,ui_ux_design,arts_design,UI/UX дизайн,2.1,529
+subtopic,consulting_services,business_finance,Консалтинг и B2B-экспертиза,3.0,459
+subtopic,crypto,business_finance,Криптовалюты как инвестиционный актив,3.9,332
+subtopic,entrepreneurship,business_finance,Предпринимательство и стартапы,2.5,1758
+subtopic,finance_legal,business_finance,Финансовое и налоговое право,3.6,1172
+subtopic,investing,business_finance,Инвестиции,4.4,623
+subtopic,management,business_finance,Менеджмент и лидерство,2.5,1686
+subtopic,markets_economics,business_finance,Макроэкономика и рынки,5.4,651
+subtopic,personal_finance,business_finance,Личные финансы,4.0,296
+subtopic,real_estate,business_finance,Недвижимость,4.1,516
+subtopic,advertising_pr,careers_marketing,Реклама и PR,3.0,727
+subtopic,career_advice,careers_marketing,Карьерные советы,2.8,1954
+subtopic,content_marketing,careers_marketing,Контент-маркетинг и копирайтинг,2.7,638
+subtopic,hr_recruitment,careers_marketing,HR и рекрутинг,3.0,150
+subtopic,marketing_strategy,careers_marketing,Стратегический маркетинг,2.9,1253
+subtopic,personal_branding,careers_marketing,Личный бренд,3.8,282
+subtopic,sales,careers_marketing,Продажи,3.1,99
+subtopic,animation,cinema_tv,Анимация,4.1,173
+subtopic,documentary,cinema_tv,Документальное кино,3.1,54
+subtopic,film_reviews,cinema_tv,Обзоры фильмов,4.6,1070
+subtopic,filmmaking_craft,cinema_tv,Кинопроизводство и ремесло кино,3.1,1159
+subtopic,series_reviews,cinema_tv,Обзоры сериалов,5.8,191
+subtopic,astrology,esoterics,Астрология,6.0,732
+subtopic,meditation_secular,esoterics,Секулярная медитация и осознанность,4.0,390
+subtopic,mythology,esoterics,Мифология,4.5,169
+subtopic,numerology,esoterics,Нумерология,6.6,32
+subtopic,tarot,esoterics,Таро,6.2,526
+subtopic,fashion,fashion_beauty,Мода и одежда,5.4,1570
+subtopic,hair,fashion_beauty,Волосы и парикмахерское дело,4.1,218
+subtopic,lifestyle_style,fashion_beauty,Лайфстайл и стиль,5.1,3229
+subtopic,makeup,fashion_beauty,Макияж,5.3,558
+subtopic,nails,fashion_beauty,Ногти и маникюр,3.5,375
+subtopic,skincare_cosmetology,fashion_beauty,Уход за кожей и косметология,4.8,1447
+subtopic,baking,food_cooking,Выпечка,3.5,236
+subtopic,drinks_wine,food_cooking,Напитки,3.8,462
+subtopic,gastronomy,food_cooking,Гастрономия и культура еды,3.8,645
+subtopic,recipes,food_cooking,Рецепты,4.7,1144
+subtopic,restaurants,food_cooking,Обзоры ресторанов,4.7,265
+subtopic,game_commentary,gaming,Игровой комментарий и блоги геймеров,5.7,1276
+subtopic,game_reviews,gaming,Обзоры игр,5.2,103
+subtopic,gamedev,gaming,Разработка игр,2.2,217
+subtopic,retro_games,gaming,Ретро-игры,6.6,24
+subtopic,fitness_health,health_medicine,Фитнес как здоровье,3.8,683
+subtopic,general_medicine,health_medicine,Общая медицина,4.0,1069
+subtopic,nutrition,health_medicine,Питание и нутрициология,4.3,1224
+subtopic,preventive_health,health_medicine,Профилактика,3.8,554
+subtopic,rehabilitation,health_medicine,Реабилитация,3.3,227
+subtopic,specialty_medicine,health_medicine,Узкие медицинские специальности,3.2,2292
+subtopic,supplements,health_medicine,БАДы и витамины,4.2,48
+subtopic,wellness,health_medicine,Велнес и ЗОЖ,4.2,1196
+subtopic,autos,home_lifestyle,Автомобили,4.0,478
+subtopic,collecting_hobbies,home_lifestyle,Коллекционирование и хобби,4.3,479
+subtopic,daily_life,home_lifestyle,Повседневная жизнь,4.7,10999
+subtopic,gardening,home_lifestyle,Садоводство и ландшафт,4.5,562
+subtopic,home_improvement,home_lifestyle,Ремонт и DIY,2.9,448
+subtopic,interior_design,home_lifestyle,Интерьерный дизайн,3.3,611
+subtopic,pets,home_lifestyle,Домашние животные,5.7,623
+subtopic,comics_humor,humor_memes,Юмористические комиксы,4.6,72
+subtopic,memes,humor_memes,Мемы,8.5,889
+subtopic,satire,humor_memes,Сатира,6.6,201
+subtopic,stand_up,humor_memes,Stand-up комедия,4.3,140
+subtopic,book_reviews,literature,Книжные обзоры,4.7,1771
+subtopic,fiction,literature,Художественная литература,4.9,957
+subtopic,non_fiction,literature,Нонфикшн,4.2,243
+subtopic,poetry,literature,Поэзия,3.8,672
+subtopic,writing_craft,literature,Ремесло писателя,4.4,720
+subtopic,audio_production,music,Аудиопроизводство,3.1,359
+subtopic,classical_jazz,music,Классика и джаз,3.3,201
+subtopic,electronic,music,Электронная музыка,4.3,408
+subtopic,hip_hop_rnb,music,Хип-хоп и R&B,4.1,719
+subtopic,music_reviews,music,Музыкальные обзоры,4.7,966
+subtopic,rock_pop,music,Рок и поп,4.9,670
+subtopic,geopolitics_non_ukraine,politics,Геополитика,5.9,211
+subtopic,political_analysis,politics,Политическая аналитика,5.6,676
+subtopic,political_history,politics,Политическая история,5.1,130
+subtopic,social_commentary,politics,Социальный комментарий,4.8,2374
+subtopic,child_psychology,psychology_relationships,Детская психология,3.7,371
+subtopic,coaching,psychology_relationships,Коучинг,3.5,238
+subtopic,family_parenting,psychology_relationships,Семья и родительство,4.8,1261
+subtopic,mental_health,psychology_relationships,Ментальное здоровье,3.7,2433
+subtopic,pregnancy_motherhood,psychology_relationships,Беременность и материнство,5.0,151
+subtopic,relationships,psychology_relationships,Отношения,4.7,506
+subtopic,self_development,psychology_relationships,Саморазвитие,3.9,2520
+subtopic,therapy_counseling,psychology_relationships,Психотерапия и консультирование,3.9,3208
+subtopic,exam_prep,science_education,Подготовка к экзаменам,4.6,218
+subtopic,formal_education,science_education,Формальное образование,3.3,1500
+subtopic,history_humanities,science_education,История и гуманитарные науки,4.1,2012
+subtopic,language_learning,science_education,Изучение языков,3.3,1842
+subtopic,mathematics,science_education,Математика,3.1,173
+subtopic,philosophy,science_education,Философия,3.7,1141
+subtopic,research_academic,science_education,Академические исследования,2.1,198
+subtopic,science_popular,science_education,Научно-популярный контент,3.9,1080
+subtopic,competitive_sports,sports_fitness,Соревновательный спорт,4.8,422
+subtopic,fitness_training,sports_fitness,Фитнес и тренировки,4.6,1971
+subtopic,martial_arts,sports_fitness,Единоборства,5.0,306
+subtopic,outdoor_sports,sports_fitness,Outdoor-спорт,3.0,608
+subtopic,running,sports_fitness,Бег,4.1,242
+subtopic,team_sports,sports_fitness,Командные виды спорта,5.5,588
+subtopic,yoga_mindbody,sports_fitness,Йога и mind-body практики,3.9,475
+subtopic,ai_ml,technology,AI и машинное обучение,2.8,969
+subtopic,cybersecurity,technology,Кибербезопасность,3.5,175
+subtopic,data_science,technology,Data Science и аналитика,1.6,144
+subtopic,design_ux,technology,UI/UX и продуктовый дизайн,2.6,29
+subtopic,devops_infra,technology,DevOps и инфраструктура,3.3,57
+subtopic,hardware_gadgets,technology,Hardware и гаджеты,3.5,258
+subtopic,mobile_dev,technology,Мобильная разработка,2.0,44
+subtopic,programming,technology,Программирование,2.3,1095
+subtopic,web_dev,technology,Веб-разработка,2.3,103
+subtopic,country_specific,travel_places,Один конкретный регион,3.5,855
+subtopic,emigration,travel_places,Эмиграция и переезд,2.6,552
+subtopic,local_places,travel_places,Локальные места,5.1,555
+subtopic,travel,travel_places,Путешествия,3.4,2408
+subtopic,urban_exploration,travel_places,Городские прогулки и urban exploration,2.3,69
