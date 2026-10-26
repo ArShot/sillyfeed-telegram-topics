@@ -22,6 +22,7 @@
 | `data/evening_uplift_by_topic.csv` | Прибавка реакций у поста 21:00–24:00 к посту в середине дня, по теме канала | 18 | корпус постов авторских каналов, осень и зима; тема — одна главная у канала; время по Москве | более 20 000 000 постов за осень и зиму, 149 700 авторских каналов | 2026-08-27 |
 | `data/reactions_by_channel_size.csv` | Реакций на 1 000 просмотров по размеру канала | 7 | корпус постов авторских каналов, осень и зима; тема — одна главная у канала; время по Москве | более 20 000 000 постов за осень и зиму, 149 700 авторских каналов | 2026-08-27 |
 | `data/dash_by_ai_awareness.csv` | Плотность длинного тире по группам каналов: как часто канал пишет про нейросети | 4 | публичные каналы, разбитые на четыре группы по доле постов с упоминанием нейросетей | 13 701 487 постов, ~47 000 каналов | 2026-09-07 |
+| `data/ai_text_markers.csv` | Приметы машинного текста, которые выросли сильнее коридора шума: частота на миллион знаков | 13 | одни и те же каналы в двух окнах: июль–декабрь 2024 и ноябрь 2025 – апрель 2026; в каждом окне не меньше 40 постов от 200 знаков | 7 824 530 постов, 48 242 публичных канала | 2026-10-25 |
 
 Индекс тех же сведений машинно — `tables.csv`. Кодировка UTF-8, разделитель — запятая, десятичная точка.
 
@@ -53,6 +54,7 @@
 - [Лучшее время для поста: час меняет отклик, а не охват](https://sillyfeed.app/guides/luchshee-vremya-dlya-posta?utm_source=github&utm_medium=referral&utm_campaign=dataset)
 - [В какой день недели публикуют в телеграме](https://sillyfeed.app/guides/den-nedeli-dlya-posta?utm_source=github&utm_medium=referral&utm_campaign=dataset)
 - [Длинное тире и другие приметы машинного текста](https://sillyfeed.app/guides/dlinnoe-tire-priznak-ii?utm_source=github&utm_medium=referral&utm_campaign=dataset)
+- [Как отличить текст нейросети: что выросло в постах телеграма](https://sillyfeed.app/guides/kak-otlichit-tekst-neiroseti?utm_source=github&utm_medium=referral&utm_campaign=dataset)
 - [Девятнадцать тем Telegram в одной таблице](https://sillyfeed.app/channels?utm_source=github&utm_medium=referral&utm_campaign=dataset)
 
 Страницы тем:
